@@ -1,6 +1,9 @@
 # xinu-galileo-sdcard
 Contents of the SD Card in order to successfully boot Xinu from a Galileo
 
+NOTE: To build the SD Card image, a copy of xboot also needs to be included.
+
+
 Portions of this software are covered by the following copyright:
 
 Copyright (c) 2012, 2015 by Douglas Comer and CRC Press, Inc. All rights reserved.
